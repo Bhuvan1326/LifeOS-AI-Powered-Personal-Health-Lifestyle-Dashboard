@@ -1,0 +1,17 @@
+# LifeOS
+node_modules/
+__pycache__/
+*.pyc
+.env
+.env.local
+*.db
+*.sqlite
+dist/
+build/
+.DS_Store
+*.log
+venv/
+.venv/
+.idea/
+.vscode/
+*.egg-info/
