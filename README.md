@@ -1,111 +1,110 @@
-# 🚀 HM026 - Decision & Lifestyle Dashboard
+# **[HM026] [PythonCathers]**
+# **LifeOS - Decision & Lifestyle Dashboard**
 
-> **Track Decisions. Optimize Life.**
-> A modern personal dashboard built to help users track important life decisions, analyze trends, and manage daily productivity. Built with Next.js 15, Supabase, and Shadcn UI.
+## **📌 Purpose of the Website**
+LifeOS is a modern, AI-integrated personal dashboard designed to help users combat decision fatigue and optimize their daily lives. It combines decision tracking, health metrics, and productivity insights into a single, unified interface.
 
-![Next.js](https://img.shields.io/badge/Next.js-15-black?style=flat-square&logo=next.js)
-![Supabase](https://img.shields.io/badge/Supabase-Auth_&_DB-3ECF8E?style=flat-square&logo=supabase)
-![TypeScript](https://img.shields.io/badge/TypeScript-5.0-blue?style=flat-square&logo=typescript)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-CSS-38B2AC?style=flat-square&logo=tailwind-css)
-![Bun](https://img.shields.io/badge/Bun-Runtime-fbf0df?style=flat-square&logo=bun)
-![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)
+### **How It Works?**
+- **Track:** Users log daily metrics (sleep, mood, productivity) and major life decisions.
+- **Analyze:** The dashboard visualizes data using a responsive Bento Grid layout.
+- **Optimize:** Integrated tools help filter and review past decisions to improve future outcomes.
 
----
-
-## ✨ Key Features
-
-* **📊 Interactive Dashboard:** A central hub to view your daily activity and insights (`/dashboard`).
-* **🤔 Decision Tracker:** Dedicated tools to log, view, and filter important life decisions (`/decisions`).
-    * **Filter System:** Sort decisions by criteria to find what matters.
-    * **Detailed Analysis:** Deep dive into individual decision metrics.
-* **🔐 Secure Authentication:** Robust sign-up and login flow powered by Supabase Auth (`/auth`).
-* **🎨 Modern UI:** Beautiful, responsive components built with Tailwind CSS and Shadcn UI.
-* **📱 Responsive Design:** Fully optimized for seamless use on both desktop and mobile devices.
+### **How It Helps the User?**
+- **Reduces Decision Fatigue:** By providing a structured way to log and review choices.
+- **Centralizes Data:** No need for multiple apps; track health, habits, and tasks in one place.
+- **Provides Clarity:** Visual insights help users understand their behavioral trends over time.
 
 ---
 
-## 🛠️ Tech Stack
+## **🌟 Features**
 
-**Frontend & Core:**
-* **Framework:** [Next.js 15](https://nextjs.org/) (App Router)
-* **Language:** TypeScript
-* **Styling:** Tailwind CSS
-* **Components:** Shadcn UI (Radix Primitives)
-* **Icons:** Lucide React
-
-**Backend & Data:**
-* **Database:** [Supabase](https://supabase.com/) (PostgreSQL)
-* **Authentication:** Supabase Auth
-* **State Management:** React Hooks
+✔ **Interactive Dashboard** - A sleek Bento Grid UI to view daily activity and insights at a glance.
+✔ **Decision Tracker** - Dedicated tools to log, tag, and filter important life choices.
+✔ **Secure Authentication** - Robust sign-up and login system powered by Supabase Auth.
+✔ **Responsive Design** - Fully optimized for seamless use on mobile, tablet, and desktop.
+✔ **Dark Mode Support** - Modern aesthetic that is easy on the eyes.
+✔ **Real-time Data** - Instant updates and data persistence using PostgreSQL.
 
 ---
 
-## 📂 Project Structure
+## **🖼️ Screenshots**
+Here are the actual screenshots from our platform:
 
-A quick look at the top-level files and directories:
+**🔹 Landing / Front Page**
+![Front Page](https://github.com/Bhuvan1326/HM026_PythonCathers/blob/main/Output%20ScreenShots/Screenshot%202026-01-18%20002650.png?raw=true)
 
-```bash
-├── src/
-│   ├── app/                 # Next.js App Router pages
-│   │   ├── auth/            # Signin, Signup, and Auth Callbacks
-│   │   ├── dashboard/       # Main user dashboard
-│   │   ├── decisions/       # Decision tracking & filtering features
-│   ├── components/          # Reusable UI components (Shadcn)
-│   ├── lib/                 # Utilities and Supabase client setup
-│   ├── hooks/               # Custom React hooks (e.g., use-mobile)
-│   └── visual-edits/        # Visual editing tools configuration
-├── public/                  # Static assets (images, fonts)
-└── LifeOS/                  # (Reference/Legacy backend module)
+**🔹 Main Dashboard**
+![Dashboard](https://github.com/Bhuvan1326/HM026_PythonCathers/blob/main/Output%20ScreenShots/Screenshot%20(130).png?raw=true)
 
-🚀 Getting Started
-Follow these steps to run the project locally on your machine.
+**🔹 Authentication (Sign Up & Sign In)**
+| Sign Up Page | Sign In Page |
+| :---: | :---: |
+| ![Sign Up](https://github.com/Bhuvan1326/HM026_PythonCathers/blob/main/Output%20ScreenShots/Screenshot%20(127).png?raw=true) | ![Sign In](https://github.com/Bhuvan1326/HM026_PythonCathers/blob/main/Output%20ScreenShots/Screenshot%20(129).png?raw=true) |
 
-1. Clone the Repository
-Bash
-git clone [https://github.com/Bhuvan1326/HM026_PythonCathers.git](https://github.com/Bhuvan1326/HM026_PythonCathers.git)
-cd HM026_PythonCathers
-2. Install Dependencies
-Important: Use the legacy peer deps flag to avoid version conflicts with some libraries.
+---
 
-Bash
-# Using NPM (Recommended)
-npm install --legacy-peer-deps
+## **🌍 Deployed URL**
+🔗 **[Access the Live Platform](https://pythoncathers-pk3lnvo6o-bhuvan-patils-projects-2aca3b63.vercel.app)**
 
-# OR using Bun
-bun install
-3. Configure Environment Variables
-Create a file named .env.local in the root directory (same level as package.json).
+---
 
-Add your Supabase credentials. (You can find these in your Supabase Dashboard under Settings > API).
+## **🎥 Demo Video**
+📽️ **[Watch the Demo]((https://drive.google.com/drive/u/2/folders/1hf2iUz7LOE5UroqU0czD6icbMiHuFJSz))**
 
-Code snippet
-Supabase Project URL: https://abdngjtrutlczevosdmg.supabase.co
 
-Anon Public Key: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImFiZG5nanRydXRsY3pldm9zZG1nIiwicm9sZSI6ImFub24iLCJpYXQiOjE3Njg1MzY4ODAsImV4cCI6MjA4NDExMjg4MH0.ZcSCHBkHgtyk6X1_bFbeoWqD1ErPVSe13oJ6bVfqtSY
+---
 
-4. Run the Development Server
-Bash
-npm run dev
-Open http://localhost:3000 with your browser to see the app.
+## **🛠️ Tech Stack & APIs Used**
 
-Sign Up Page: http://localhost:3000/auth/signup
+- **Frontend:** Next.js 15 (React), TypeScript, Tailwind CSS
+- **UI Components:** Shadcn UI, Radix Primitives, Lucide Icons
+- **Backend:** Supabase (PostgreSQL)
+- **Authentication:** Supabase Auth
+- **State Management:** React Hooks
+- **Package Manager:** Bun / NPM
 
-Dashboard: http://localhost:3000/dashboard
+---
 
-🤝 Contributing
-We welcome contributions to improve the dashboard!
+## **🚀 Upcoming Features**
 
-Fork the repository.
+🔹 **AI Insights:** AI agents to analyze decision patterns and offer advice.
+🔹 **Habit Streaks:** Gamified tracking for daily habits to boost consistency.
+🔹 **Mobile App:** A native version for iOS and Android.
+🔹 **Data Export:** Ability to export monthly reports as PDF or CSV.
+🔹 **Voice Logging:** Log decisions and mood using voice commands.
 
-Create a feature branch (git checkout -b feature/NewFeature).
+---
 
-Commit your changes (git commit -m 'Add NewFeature').
+## **📖 How to Fork/Clone the Project?**
 
-Push to the branch.
+1. **Fork the Repository** - Click the "Fork" button on the top right of this page.
+2. **Clone the Repository**
+   ```bash
+   git clone [https://github.com/Bhuvan1326/HM026_PythonCathers.git](https://github.com/Bhuvan1326/HM026_PythonCathers.git)
+   cd HM026_PythonCathers
 
-Open a Pull Request.
+📩 Contact Us
+If you have any questions, feedback, or issues, feel free to reach out to us.
 
-📞 Team
-Team HM026 - PythonCathers
+👨‍💻 Our Team - PythonCathers
+Bhuvan (Team Lead) 
+📧 bhuvanpatil1313@gmail.com
+🔗 GitHub: https://github.com/Bhuvan1326
 
-Repository: https://github.com/Bhuvan1326/HM026_PythonCathers
+Chhatrapal Girase
+📧 girasechhatrapal0@gmail.com
+🔗 *[GitHub](https://github.com/chhatrapalgirase285)*
+
+Soham Patil
+📧 sohampatil0702@gmail.com
+🔗 *[GitHub](https://github.com/sohampatil0702-cmd)*
+
+Om Bajaj
+📧 ombajaj91@gmail.com
+🔗 *[GitHub](https://github.com/ombajaj)*
+
+
+📜 License
+This project is licensed under the MIT License.
+
+🚀 Thank You for Using LifeOS! We hope this project helps you make better decisions and live a more organized life. 💙
