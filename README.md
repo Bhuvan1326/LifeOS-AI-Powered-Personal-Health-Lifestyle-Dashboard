@@ -1,4 +1,3 @@
-# **[HM026] [PythonCathers]**
 # **LifeOS - Decision & Lifestyle Dashboard**
 
 ## **📌 Purpose of the Website**
