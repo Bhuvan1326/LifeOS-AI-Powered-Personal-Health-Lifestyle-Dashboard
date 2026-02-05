@@ -47,12 +47,6 @@ Here are the actual screenshots from our platform:
 
 ---
 
-## **Demo Video**
- **[Watch the Demo]((https://drive.google.com/drive/u/2/folders/1hf2iUz7LOE5UroqU0czD6icbMiHuFJSz))**
-
-
----
-
 ## **Tech Stack & APIs Used**
 
 - **Frontend:** Next.js 15 (React), TypeScript, Tailwind CSS
