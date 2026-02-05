@@ -1,6 +1,6 @@
 # **LifeOS - Decision & Lifestyle Dashboard**
 
-## **📌 Purpose of the Website**
+## **Purpose of the Website**
 LifeOS is a modern, AI-integrated personal dashboard designed to help users combat decision fatigue and optimize their daily lives. It combines decision tracking, health metrics, and productivity insights into a single, unified interface.
 
 ### **How It Works?**
@@ -15,7 +15,7 @@ LifeOS is a modern, AI-integrated personal dashboard designed to help users comb
 
 ---
 
-## **🌟 Features**
+## **Features**
 
 ✔ **Interactive Dashboard** - A sleek Bento Grid UI to view daily activity and insights at a glance.
 ✔ **Decision Tracker** - Dedicated tools to log, tag, and filter important life choices.
@@ -26,34 +26,34 @@ LifeOS is a modern, AI-integrated personal dashboard designed to help users comb
 
 ---
 
-## **🖼️ Screenshots**
+## **Screenshots**
 Here are the actual screenshots from our platform:
 
-**🔹 Landing / Front Page**
+**Landing / Front Page**
 ![Front Page](https://github.com/Bhuvan1326/HM026_PythonCathers/blob/main/Output%20ScreenShots/Screenshot%202026-01-18%20002650.png?raw=true)
 
-**🔹 Main Dashboard**
+**Main Dashboard**
 ![Dashboard](https://github.com/Bhuvan1326/HM026_PythonCathers/blob/main/Output%20ScreenShots/Screenshot%20(130).png?raw=true)
 
-**🔹 Authentication (Sign Up & Sign In)**
+**Authentication (Sign Up & Sign In)**
 | Sign Up Page | Sign In Page |
 | :---: | :---: |
 | ![Sign Up](https://github.com/Bhuvan1326/HM026_PythonCathers/blob/main/Output%20ScreenShots/Screenshot%20(127).png?raw=true) | ![Sign In](https://github.com/Bhuvan1326/HM026_PythonCathers/blob/main/Output%20ScreenShots/Screenshot%20(129).png?raw=true) |
 
 ---
 
-## **🌍 Deployed URL**
+## **Deployed URL**
 🔗 **[Access the Live Platform](https://pythoncathers.vercel.app)**
 
 ---
 
-## **🎥 Demo Video**
-📽️ **[Watch the Demo]((https://drive.google.com/drive/u/2/folders/1hf2iUz7LOE5UroqU0czD6icbMiHuFJSz))**
+## **Demo Video**
+ **[Watch the Demo]((https://drive.google.com/drive/u/2/folders/1hf2iUz7LOE5UroqU0czD6icbMiHuFJSz))**
 
 
 ---
 
-## **🛠️ Tech Stack & APIs Used**
+## **Tech Stack & APIs Used**
 
 - **Frontend:** Next.js 15 (React), TypeScript, Tailwind CSS
 - **UI Components:** Shadcn UI, Radix Primitives, Lucide Icons
@@ -64,17 +64,17 @@ Here are the actual screenshots from our platform:
 
 ---
 
-## **🚀 Upcoming Features**
+## **Upcoming Features**
 
-🔹 **AI Insights:** AI agents to analyze decision patterns and offer advice.
-🔹 **Habit Streaks:** Gamified tracking for daily habits to boost consistency.
-🔹 **Mobile App:** A native version for iOS and Android.
-🔹 **Data Export:** Ability to export monthly reports as PDF or CSV.
-🔹 **Voice Logging:** Log decisions and mood using voice commands.
+**AI Insights:** AI agents to analyze decision patterns and offer advice.
+**Habit Streaks:** Gamified tracking for daily habits to boost consistency.
+**Mobile App:** A native version for iOS and Android.
+**Data Export:** Ability to export monthly reports as PDF or CSV.
+**Voice Logging:** Log decisions and mood using voice commands.
 
 ---
 
-## **📖 How to Fork/Clone the Project?**
+## **How to Fork/Clone the Project?**
 
 1. **Fork the Repository** - Click the "Fork" button on the top right of this page.
 2. **Clone the Repository**
@@ -82,25 +82,25 @@ Here are the actual screenshots from our platform:
    git clone [https://github.com/Bhuvan1326/HM026_PythonCathers.git](https://github.com/Bhuvan1326/HM026_PythonCathers.git)
    cd HM026_PythonCathers
 
-📩 Contact Us
+Contact Us
 If you have any questions, feedback, or issues, feel free to reach out to us.
 
-👨‍💻 Our Team - PythonCathers
+Our Team - PythonCathers
 Bhuvan (Team Lead) 
-📧 bhuvanpatil1313@gmail.com
-🔗 GitHub: https://github.com/Bhuvan1326
+bhuvanpatil1313@gmail.com
+GitHub: https://github.com/Bhuvan1326
 
 Chhatrapal Girase
-📧 girasechhatrapal0@gmail.com
-🔗 *[GitHub](https://github.com/chhatrapalgirase285)*
+girasechhatrapal0@gmail.com
+*[GitHub](https://github.com/chhatrapalgirase285)*
 
 Soham Patil
-📧 sohampatil0702@gmail.com
-🔗 *[GitHub](https://github.com/sohampatil0702-cmd)*
+sohampatil0702@gmail.com
+*[GitHub](https://github.com/sohampatil0702-cmd)*
 
 Om Bajaj
-📧 ombajaj91@gmail.com
-🔗 *[GitHub](https://github.com/ombajaj)*
+ombajaj91@gmail.com
+*[GitHub](https://github.com/ombajaj)*
 
 
 📜 License
