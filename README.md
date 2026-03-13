@@ -82,7 +82,7 @@ If you have any questions, feedback, or issues, feel free to reach out to us.
 Our Team - PythonCathers
 Bhuvan (Team Lead) 
 bhuvanpatil1313@gmail.com
-GitHub: https://github.com/Bhuvan1326
+*[GitHub](https://github.com/Bhuvan1326)*
 
 Chhatrapal Girase
 girasechhatrapal0@gmail.com
@@ -100,4 +100,4 @@ ombajaj91@gmail.com
 📜 License
 This project is licensed under the MIT License.
 
-🚀 Thank You for Using LifeOS! We hope this project helps you make better decisions and live a more organized life. 💙
+Thank You for Using LifeOS! We hope this project helps you make better decisions and live a more organized life.💙
